@@ -7,3 +7,4 @@ Profile picture drawn by [ChunksOfPlum](https://twitter.com/chunksofplum "Chunks
 # Things I do
 - Programming
 - [Music](https://soundcloud.com/jvdydev "Music")
+- Technical Writing / Blog (coming soon)
